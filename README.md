@@ -1,4 +1,4 @@
-# ![](https://i.imgur.com/qme3EWO.jpg)
+<!--# ![](https://i.imgur.com/qme3EWO.jpg)-->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marcoslafoz&theme=vue&hide_border=false)<br/>
 
